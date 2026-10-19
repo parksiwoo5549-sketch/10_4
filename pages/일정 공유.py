@@ -1,6 +1,6 @@
 import streamlit as st
 st.title('일정 공유')
-st.write('skxhfl')
+st.write('다가오는 일정을 확인하고 공유하세요')
 
 
 import json
